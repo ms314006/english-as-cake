@@ -1,0 +1,1854 @@
+{
+    "quest": [
+        {
+            "title": "Because Mr. Chang has been busy these days, it's ________ whether he will come to the party.",
+            "options": [
+                "inevitable",
+                "impossible",
+                "doubtful",
+                "unlikely"
+            ],
+            "answer": "doubtful"
+        },
+        {
+            "title": "I'm quite ________ to the weather in Taiwan, so I think I'll stay here for another year.",
+            "options": [
+                "satisfied",
+                "devoted",
+                "pleased",
+                "accustomed"
+            ],
+            "answer": "accustomed"
+        },
+        {
+            "title": "Mr. Smith won't tolerate talking during class; he says it ________ others.",
+            "options": [
+                "dismisses",
+                "deserves",
+                "destroys",
+                "disturbs"
+            ],
+            "answer": "disturbs"
+        },
+        {
+            "title": "On the basis of the clues, can you predict the ________ of the story?",
+            "options": [
+                "performance",
+                "outcome",
+                "cause",
+                "headline"
+            ],
+            "answer": "outcome"
+        },
+        {
+            "title": "A good reader can often figure out what new words mean by using ________.",
+            "options": [
+                "contest",
+                "context",
+                "contact",
+                "content"
+            ],
+            "answer": "context"
+        },
+        {
+            "title": "I sometimes take John's coat for my own, because the two of them look so ________. ",
+            "options": [
+                "similar",
+                "cheerful",
+                "curious",
+                "original"
+            ],
+            "answer": "similar"
+        },
+        {
+            "title": "George at first had difficulty swimming across the pool, but he finally succeeded on his fourth ________. ",
+            "options": [
+                "display",
+                "process",
+                "attempt",
+                "instance"
+            ],
+            "answer": "attempt"
+        },
+        {
+            "title": "With her teachers’ and parents’ ________, Jane regained her confidence and has made great progress.",
+            "options": [
+                "association",
+                "encouragement",
+                "construction",
+                "movement"
+            ],
+            "answer": "encouragement"
+        },
+        {
+            "title": "One of Jane’s finest qualities is that she takes the ________. She always takes the necessary action and does not wait for orders.",
+            "options": [
+                "vision",
+                "advantage",
+                "charity",
+                "initiative"
+            ],
+            "answer": "initiative"
+        },
+        {
+            "title": "Mr. Li is a senior ________ at a local bank. He keeps and examines financial records of people and companies.",
+            "options": [
+                "traitor",
+                "accountant",
+                "volunteer",
+                "economist"
+            ],
+            "answer": "accountant"
+        },
+        {
+            "title": "Chinese parents are usually very ________ of their children. They want to make sure their children are safe and well taken care of all the time.",
+            "options": [
+                "patient",
+                "peculiar",
+                "persuasive",
+                "protective"
+            ],
+            "answer": "protective"
+        },
+        {
+            "title": "On receiving my letter of complaint, the hotel manager sent me a written ________.",
+            "options": [
+                "consent",
+                "lecture",
+                "apology",
+                "scandal"
+            ],
+            "answer": "apology"
+        },
+        {
+            "title": "I wonder why she ________ turned up the radio when I was studying.",
+            "options": [
+                "deliberately",
+                "sympathetically",
+                "thoroughly",
+                "primarily"
+            ],
+            "answer": "deliberately"
+        },
+        {
+            "title": "It suddenly ________ me that I had to get to the airport to meet a friend.",
+            "options": [
+                "took",
+                "struck",
+                "surprised",
+                "occurred"
+            ],
+            "answer": "struck"
+        },
+        {
+            "title": "Being a very careful person, he is quite ________ in giving his comments.",
+            "options": [
+                "reserved",
+                "melancholy",
+                "complicated",
+                "generous"
+            ],
+            "answer": "reserved"
+        },
+        {
+            "title": "Most viewers agreed that the movie ________ was not as good as the book.",
+            "options": [
+                "version",
+                "copy",
+                "routine",
+                "issue"
+            ],
+            "answer": "version"
+        },
+        {
+            "title": "The native greeted the travelers in a ________ language which was strange to them.",
+            "options": [
+                "contrary",
+                "relative",
+                "peculiar",
+                "spiral"
+            ],
+            "answer": "peculiar"
+        },
+        {
+            "title": "Several motorists were ________ waiting for the light to change.",
+            "options": [
+                "impatiently",
+                "impracticably",
+                "importantly",
+                "impossibly"
+            ],
+            "answer": "impatiently"
+        },
+        {
+            "title": "Mary wrote a letter of ________ to the manufacturer after her new car broke down three times in the same week.",
+            "options": [
+                "madness",
+                "depression",
+                "repair",
+                "complaint"
+            ],
+            "answer": "complaint"
+        },
+        {
+            "title": "John's poor math score must have ________ him a lot, because he is not attending the class any more.",
+            "options": [
+                "discouraged",
+                "finished",
+                "impressed",
+                "expelled"
+            ],
+            "answer": "discouraged"
+        },
+        {
+            "title": "The issue of environmental protection has not received much attention until very ________.",
+            "options": [
+                "recently",
+                "seriously",
+                "dangerously",
+                "amazingly"
+            ],
+            "answer": "recently"
+        },
+        {
+            "title": "The old man could ________ swallow because his throat was too dry.",
+            "options": [
+                "exactly",
+                "strictly",
+                "actually",
+                "hardly"
+            ],
+            "answer": "hardly"
+        },
+        {
+            "title": "We are more than willing to ________ our ties with those countries that are friendly to us.",
+            "options": [
+                "connect",
+                "appeal",
+                "expect",
+                "strengthen"
+            ],
+            "answer": "strengthen"
+        },
+        {
+            "title": "The artist is famous for his genius and great ________.",
+            "options": [
+                "originality",
+                "fragrance",
+                "therapy",
+                "sculptor"
+            ],
+            "answer": "originality"
+        },
+        {
+            "title": "Although some things are ________, they nevertheless exist.",
+            "options": [
+                "intelligible",
+                "important",
+                "invisible",
+                "interesting"
+            ],
+            "answer": "invisible"
+        },
+        {
+            "title": "The main ________ of this test is to find out how much you have learned in high school.",
+            "options": [
+                "objective",
+                "discipline",
+                "countenance",
+                "procedure"
+            ],
+            "answer": "objective"
+        },
+        {
+            "title": "I hope to live in a student dormitory when I am in college.  I am tired of ________ to school in a crowded bus every day.",
+            "options": [
+                "dropping",
+                "swaying",
+                "wandering",
+                "commuting"
+            ],
+            "answer": "commuting"
+        },
+        {
+            "title": "They were behind schedule and had to apply for ________ manpower to complete their project in time.",
+            "options": [
+                "basic",
+                "profound",
+                "introductory",
+                "extra"
+            ],
+            "answer": "extra"
+        },
+        {
+            "title": "Out of ________ and consideration, I always write a thank-you note when someone sends me a gift. ",
+            "options": [
+                "courtesy",
+                "convenience",
+                "concentration",
+                "courtship"
+            ],
+            "answer": "courtesy"
+        },
+        {
+            "title": "The boy ________ to the teacher for his improper behavior.",
+            "options": [
+                "apologized",
+                "appealed",
+                "attached",
+                "approached"
+            ],
+            "answer": "apologized"
+        },
+        {
+            "title": "The problem with Jane is that she tends to take criticism too ________ and gets angry easily.",
+            "options": [
+                "personally",
+                "eventually",
+                "intimately",
+                "positively"
+            ],
+            "answer": "personally"
+        },
+        {
+            "title": "Almost everybody is a ________ of many different 'selves'; we show different faces to different people.",
+            "options": [
+                "complication",
+                "communication",
+                "combination",
+                "competition"
+            ],
+            "answer": "combination"
+        },
+        {
+            "title": "John has been working at the computer for twenty-four hours.  He ________ needs a good rest. ",
+            "options": [
+                "accidentally",
+                "efficiently",
+                "obviously",
+                "previously"
+            ],
+            "answer": "obviously"
+        },
+        {
+            "title": "Nowadays students can ________ information from a variety of sources, such as computers, television, and compact discs.",
+            "options": [
+                "express",
+                "oppress",
+                "access",
+                "press"
+            ],
+            "answer": "access"
+        },
+        {
+            "title": "Sorry for being late.  Someone gave me ________ directions and I got totally lost. ",
+            "options": [
+                "faulty",
+                "dreary",
+                "steady",
+                "handy"
+            ],
+            "answer": "faulty"
+        },
+        {
+            "title": "Jack doesn’t look ________, but he is, in fact, excellent at sports, especially baseball.",
+            "options": [
+                "enthusiastic",
+                "conscientious",
+                "graceful",
+                "athletic"
+            ],
+            "answer": "athletic"
+        },
+        {
+            "title": "What a small computer!  Does it really ________?",
+            "options": [
+                "type",
+                "use",
+                "bite",
+                "work"
+            ],
+            "answer": "work"
+        },
+        {
+            "title": "For your own ________, please don't open the door until the train fully stops.",
+            "options": [
+                "liberty",
+                "vanity",
+                "safety",
+                "humanity"
+            ],
+            "answer": "safety"
+        },
+        {
+            "title": "Peter told Marie that he couldn't attend her birthday party because he had been ________ engaged.",
+            "options": [
+                "previously",
+                "cautiously",
+                "necessarily",
+                "possibly"
+            ],
+            "answer": "previously"
+        },
+        {
+            "title": "For hours, we have heard nothing but negative criticism.  Why can't you say something more ________?",
+            "options": [
+                "synthetic",
+                "determined",
+                "ambitious",
+                "constructive"
+            ],
+            "answer": "constructive"
+        },
+        {
+            "title": "This library is famous for its wide ________ of books.  You can find books on any topic you are interested in.",
+            "options": [
+                "connection",
+                "amazement",
+                "variety",
+                "technology"
+            ],
+            "answer": "variety"
+        },
+        {
+            "title": "The child was ________.  He just sat there and waited for something to happen.",
+            "options": [
+                "persuasive",
+                "passive",
+                "expressive",
+                "extensive"
+            ],
+            "answer": "passive"
+        },
+        {
+            "title": "Lost and scared, the little dog ________ along the streets, looking for its master.",
+            "options": [
+                "wandered",
+                "glided",
+                "dismissed",
+                "marched"
+            ],
+            "answer": "wandered"
+        },
+        {
+            "title": "On a sunny afternoon last month, we all took off our shoes and walked on the grass with ________ feet.",
+            "options": [
+                "slippery",
+                "bare",
+                "tough",
+                "raw"
+            ],
+            "answer": "bare"
+        },
+        {
+            "title": "It is both legally and ________ wrong to spread rumors about other people on the Internet.",
+            "options": [
+                "literarily",
+                "morally",
+                "commercially",
+                "physically"
+            ],
+            "answer": "morally"
+        },
+        {
+            "title": "These warm-up exercises are designed to help people ________ their muscles and prevent injuries.",
+            "options": [
+                "broaden",
+                "loosen",
+                "connect",
+                "produce"
+            ],
+            "answer": "loosen"
+        },
+        {
+            "title": "Mei-ling has a very close relationship with her parents. She always ________ them before she makes important decisions.",
+            "options": [
+                "consults",
+                "advises",
+                "motivates",
+                "impresses"
+            ],
+            "answer": "consults"
+        },
+        {
+            "title": "The restaurant has a ________ charge of NT$250 per person. So the four of us need to pay at least NT$1,000 to eat there.",
+            "options": [
+                "numerous",
+                "minimum",
+                "flexible",
+                "definite"
+            ],
+            "answer": "minimum"
+        },
+        {
+            "title": "At the Book Fair, exhibitors from 21 countries will ________ textbooks, novels, and comic books.",
+            "options": [
+                "display",
+                "predict",
+                "target",
+                "require"
+            ],
+            "answer": "display"
+        },
+        {
+            "title": "Before John got on the stage to give the speech, he took a deep ________ to calm himself down.",
+            "options": [
+                "effort",
+                "rest",
+                "breath",
+                "order"
+            ],
+            "answer": "breath"
+        },
+        {
+            "title": "Most young people in Taiwan are not satisfied with a high school ________ and continue to pursue further education in college.",
+            "options": [
+                "maturity",
+                "diploma",
+                "guarantee",
+                "foundation"
+            ],
+            "answer": "diploma"
+        },
+        {
+            "title": "Residents are told not to dump all household waste ________ into the trash can; reusable materials should first be sorted out and recycled.",
+            "options": [
+                "forward",
+                "straight",
+                "shortly",
+                "namely"
+            ],
+            "answer": "straight"
+        },
+        {
+            "title": "Kevin had been standing on a ladder trying to reach for a book on the top shelf when he lost his ________ and fell to the ground.",
+            "options": [
+                "direction",
+                "weight",
+                "balance",
+                "volume"
+            ],
+            "answer": "balance"
+        },
+        {
+            "title": "If student enrollment continues to drop, some programs at the university may be ________ to reduce the operation costs. ",
+            "options": [
+                "accounted",
+                "eliminated",
+                "projected",
+                "relieved"
+            ],
+            "answer": "eliminated"
+        },
+        {
+            "title": "People in that remote village feed themselves by hunting and engaging in ________ forms of agriculture. No modern agricultural methods are used.",
+            "options": [
+                "universal",
+                "primitive",
+                "splendid",
+                "courteous"
+            ],
+            "answer": "primitive"
+        },
+        {
+            "title": "The government issued a travel ________ for Taiwanese in response to the outbreak of civil war in Syria.",
+            "options": [
+                "circulation",
+                "monument",
+                "exit",
+                "alert"
+            ],
+            "answer": "alert"
+        },
+        {
+            "title": "The baby panda Yuan Zai at the Taipei Zoo was separated from her mother because of a minor injury that occurred during her birth. She was ________ by zookeepers for a while.",
+            "options": [
+                "captured",
+                "jailed",
+                "tended",
+                "departed"
+            ],
+            "answer": "tended"
+        },
+        {
+            "title": "Many people think cotton is the most comfortable ________ to wear in hot weather.",
+            "options": [
+                "coverage",
+                "fabric",
+                "software",
+                "wardrobe"
+            ],
+            "answer": "fabric"
+        },
+        {
+            "title": "Because of the engine problem in the new vans, the auto company decided to ________ them from the market.",
+            "options": [
+                "clarify",
+                "polish",
+                "transform",
+                "recall"
+            ],
+            "answer": "recall"
+        },
+        {
+            "title": "After a day’s tiring work, Peter walked ________ back to his house, hungry and sleepy.",
+            "options": [
+                "vaguely",
+                "wearily",
+                "thoroughly",
+                "splendidly"
+            ],
+            "answer": "wearily"
+        },
+        {
+            "title": "In team sports, how all members work as a group is more important than how they perform ________.",
+            "options": [
+                "individually",
+                "typically",
+                "completely",
+                "frequently"
+            ],
+            "answer": "individually"
+        },
+        {
+            "title": "Despite her physical disability, the young blind pianist managed to overcome all ________ to win the first prize in the international contest.",
+            "options": [
+                "privacy",
+                "ambition",
+                "fortunes",
+                "obstacles"
+            ],
+            "answer": "obstacles"
+        },
+        {
+            "title": "Each of the planets in the solar system circles around the sun in its own ________, and this prevents them from colliding with each other.",
+            "options": [
+                "range",
+                "entry",
+                "haste",
+                "orbit"
+            ],
+            "answer": "orbit"
+        },
+        {
+            "title": "Professor Wang is well known for his contributions to the field of economics. He has been ________ to help the government with its financial reform programs.",
+            "options": [
+                "mediated",
+                "generated",
+                "recruited",
+                "contradicted"
+            ],
+            "answer": "recruited"
+        },
+        {
+            "title": "Most earthquakes are too small to be noticed; they can only be detected by ________ instruments.",
+            "options": [
+                "dominant",
+                "portable",
+                "manual",
+                "sensitive"
+            ],
+            "answer": "sensitive"
+        },
+        {
+            "title": "With Wikileaks releasing secrets about governments around the world, many countries are worried that their national security information might be ________.",
+            "options": [
+                "relieved",
+                "disclosed",
+                "condensed",
+                "provoked"
+            ],
+            "answer": "disclosed"
+        },
+        {
+            "title": "I’m afraid we can’t take your word, for the evidence we’ve collected so far is not ________ with what you said.",
+            "options": [
+                "durable",
+                "consistent",
+                "familiar",
+                "sympathetic"
+            ],
+            "answer": "consistent"
+        },
+        {
+            "title": "The traffic on Main Street was ________ for several hours due to a car accident in which six people were injured.",
+            "options": [
+                "detected",
+                "estimated",
+                "survived",
+                "obstructed"
+            ],
+            "answer": "obstructed"
+        },
+        {
+            "title": "Hundreds of people ________ in the desert storm and many more were left homeless.",
+            "options": [
+                "inspired",
+                "perished",
+                "mistreated",
+                "dismissed"
+            ],
+            "answer": "perished"
+        },
+        {
+            "title": "Mike arrived at the meeting ________ at ten o’clock — as it was scheduled — not a minute early or late.",
+            "options": [
+                "numerously",
+                "flexibly",
+                "approximately",
+                "punctually"
+            ],
+            "answer": "punctually"
+        },
+        {
+            "title": "A power failure ________ darkened the whole city, and it was not until two hours later that electricity was restored.",
+            "options": [
+                "temporarily",
+                "roughly",
+                "precisely",
+                "illogically"
+            ],
+            "answer": "temporarily"
+        },
+        {
+            "title": "Sam couldn’t ________ how to print out the document until the teacher showed it to him.",
+            "options": [
+                "figure out",
+                "go through",
+                "come up",
+                "get over"
+            ],
+            "answer": "figure out"
+        },
+        {
+            "title": "Jordan’s performance ________ his teammates and they finally beat their opponents to win the championship.",
+            "options": [
+                "opposed",
+                "inspired",
+                "promoted",
+                "signaled"
+            ],
+            "answer": "inspired"
+        },
+        {
+            "title": "Mr. Lin’s comments were very difficult to follow because they were ________ related to the topic under discussion.",
+            "options": [
+                "loosely",
+                "specifically",
+                "anxiously",
+                "typically"
+            ],
+            "answer": "loosely"
+        },
+        {
+            "title": "Jack came from a poor family, so his parents had to ________ many things to pay for his education.",
+            "options": [
+                "qualify",
+                "sacrifice",
+                "inherit",
+                "purchase"
+            ],
+            "answer": "sacrifice"
+        },
+        {
+            "title": "The ________ of SARS has caused great inconvenience to many families in Taiwan.",
+            "options": [
+                "contempt",
+                "destiny",
+                "isolation",
+                "outbreak"
+            ],
+            "answer": "outbreak"
+        },
+        {
+            "title": "Victor’s classmates are very ________ of him because he has just received a new cell phone for his birthday.",
+            "options": [
+                "logical",
+                "beloved",
+                "envious",
+                "arrogant"
+            ],
+            "answer": "envious"
+        },
+        {
+            "title": "Some people still believe, quite ________, that one can get AIDS by shaking hands with homosexuals.",
+            "options": [
+                "mistakenly",
+                "consequently",
+                "generously",
+                "hardly"
+            ],
+            "answer": "mistakenly"
+        },
+        {
+            "title": "There are altogether 154 foreign students in this university, ________ a total of thirteen different countries. ",
+            "options": [
+                "participating",
+                "representing",
+                "constructing",
+                "exploiting"
+            ],
+            "answer": "representing"
+        },
+        {
+            "title": "During a ________, many people become unemployed and very few new jobs are available.",
+            "options": [
+                "recession",
+                "government",
+                "disappointment",
+                "prediction"
+            ],
+            "answer": "recession"
+        },
+        {
+            "title": "Chinese is a language with many ________ differences. People living in different areas often speak different dialects.",
+            "options": [
+                "sociable",
+                "regional",
+                "legendary",
+                "superior"
+            ],
+            "answer": "regional"
+        },
+        {
+            "title": "A menu serves to ________ customers about the varieties and prices of the dishes offered by the restaurant.",
+            "options": [
+                "convey",
+                "appeal",
+                "demand",
+                "inform"
+            ],
+            "answer": "inform"
+        },
+        {
+            "title": "Mary and Jane often fight over which radio station to listen to. Their ________ arises mainly from their different tastes in music.",
+            "options": [
+                "temptation",
+                "consent",
+                "dispute",
+                "venture"
+            ],
+            "answer": "dispute"
+        },
+        {
+            "title": "The baby polar bear is being ________ studied by the scientists. Every move he makes is carefully observed and documented.",
+            "options": [
+                "honorably",
+                "intensively",
+                "originally",
+                "prosperously"
+            ],
+            "answer": "intensively"
+        },
+        {
+            "title": "At twelve, Catherine has won several first prizes in international art competitions. Her talent and skills are ________ for her age.",
+            "options": [
+                "indifferent",
+                "comparable",
+                "unconvincing",
+                "exceptional"
+            ],
+            "answer": "exceptional"
+        },
+        {
+            "title": "After his superb performance, the musician received a big round of ________ from the appreciative audience.",
+            "options": [
+                "spotlight",
+                "vacuum",
+                "applause",
+                "overflow"
+            ],
+            "answer": "applause"
+        },
+        {
+            "title": "The mirror slipped out of the little girl’s hand, and the broken pieces ________ all over the floor. ",
+            "options": [
+                "circulated",
+                "featured",
+                "scattered",
+                "released"
+            ],
+            "answer": "scattered"
+        },
+        {
+            "title": "No one knows how the fire broke out. The police have started an ________ into the cause of it. ",
+            "options": [
+                "operation",
+                "investigation",
+                "extension",
+                "appreciation"
+            ],
+            "answer": "investigation"
+        },
+        {
+            "title": "When there is a heavy rain, you have to drive very ________ so as to avoid traffic accidents. ",
+            "options": [
+                "recklessly",
+                "smoothly",
+                "cautiously",
+                "passively"
+            ],
+            "answer": "cautiously"
+        },
+        {
+            "title": "We decided to buy some ________ for our new apartment, including a refrigerator, a vacuum cleaner, and a dishwasher. ",
+            "options": [
+                "utensils",
+                "facilities",
+                "extensions",
+                "appliances"
+            ],
+            "answer": "appliances"
+        },
+        {
+            "title": "This math class is very ________; I have to spend at least two hours every day doing the assignments. ",
+            "options": [
+                "logical",
+                "confidential",
+                "resistant",
+                "demanding"
+            ],
+            "answer": "demanding"
+        },
+        {
+            "title": "One can generally judge the quality of eggs with the naked eye. ________, good eggs must be clean, free of cracks, and smooth-shelled. ",
+            "options": [
+                "Agriculturally",
+                "Influentially",
+                "Externally",
+                "Occasionally"
+            ],
+            "answer": "Externally"
+        },
+        {
+            "title": "The scientist ________ his speech to make it easier for children to understand the threat of global warming. ",
+            "options": [
+                "estimated",
+                "modified",
+                "documented",
+                "abolished"
+            ],
+            "answer": "modified"
+        },
+        {
+            "title": "The Internet has ________ newspapers as a medium of mass communication. It has become the main source for national and international news for people.",
+            "options": [
+                "surpassed",
+                "promoted",
+                "reformed",
+                "convinced"
+            ],
+            "answer": "surpassed"
+        },
+        {
+            "title": "The new stadium was built at a convenient ________, close to an MRT station and within walking distance to a popular shopping center.",
+            "options": [
+                "vacancy",
+                "location",
+                "procedure",
+                "residence"
+            ],
+            "answer": "location"
+        },
+        {
+            "title": "The young Taiwanese pianist performed ________ well and won the first prize in the music contest.",
+            "options": [
+                "efficiently",
+                "potentially",
+                "remarkably",
+                "intimately"
+            ],
+            "answer": "remarkably"
+        },
+        {
+            "title": "As thousands of new ________ from Southeastern Asia have moved to Taiwan for work or marriage, we should try our best to help them adjust to our society. ",
+            "options": [
+                "messengers",
+                "agencies",
+                "possessors",
+                "immigrants"
+            ],
+            "answer": "immigrants"
+        },
+        {
+            "title": "Although the manager apologized many times for his poor decision, there was nothing he could do to ________ his mistake. ",
+            "options": [
+                "resign",
+                "retain",
+                "remedy",
+                "refresh"
+            ],
+            "answer": "remedy"
+        },
+        {
+            "title": "Last winter’s snowstorms and freezing temperatures were quite ________ for this region where warm and short winters are typical. ",
+            "options": [
+                "statistical",
+                "fundamental",
+                "individual",
+                "extraordinary"
+            ],
+            "answer": "extraordinary"
+        },
+        {
+            "title": "To overcome budget shortages, some small schools in rural areas have set up ________ programs to share their teaching and library resources. ",
+            "options": [
+                "cooperative",
+                "infinitive",
+                "relative",
+                "objective"
+            ],
+            "answer": "cooperative"
+        },
+        {
+            "title": "After spending much time carefully studying the patient’s ________, the doctor finally made his diagnosis. ",
+            "options": [
+                "symptoms",
+                "qualifications",
+                "protests",
+                "confessions"
+            ],
+            "answer": "symptoms"
+        },
+        {
+            "title": "The universe is full of wonders. Throughout history, people have been ________ by the mystery of what lies beyond our planet. ",
+            "options": [
+                "complicated",
+                "fascinated",
+                "suspended",
+                "notified"
+            ],
+            "answer": "fascinated"
+        },
+        {
+            "title": "The president’s speech will be broadcast ________ on television and radio so that more people can listen to it at the time when it is delivered. ",
+            "options": [
+                "temporarily",
+                "comparatively",
+                "simultaneously",
+                "permanently"
+            ],
+            "answer": "simultaneously"
+        },
+        {
+            "title": "In order to expand its foreign market, the company decided to ________ its products and provide more varieties to the customer.",
+            "options": [
+                "retrieve",
+                "exceed",
+                "diversify",
+                "dismiss"
+            ],
+            "answer": "diversify"
+        },
+        {
+            "title": "It rained so hard yesterday that the baseball game had to be ________ until next Saturday.",
+            "options": [
+                "abandoned",
+                "postponed",
+                "opposed",
+                "surrendered"
+            ],
+            "answer": "postponed"
+        },
+        {
+            "title": "As more people rely on the Internet for information, it has ________ newspapers as the most important source of news.",
+            "options": [
+                "subtracted",
+                "distributed",
+                "transferred",
+                "replaced"
+            ],
+            "answer": "replaced"
+        },
+        {
+            "title": "Having saved enough money, Joy ________ two trips for this summer vacation, one to France and the other to Australia.",
+            "options": [
+                "booked",
+                "observed",
+                "enclosed",
+                "deposited"
+            ],
+            "answer": "booked"
+        },
+        {
+            "title": "Since I do not fully understand your proposal, I am not in the position to make any ________ on it.",
+            "options": [
+                "comment",
+                "solution",
+                "demand",
+                "difference"
+            ],
+            "answer": "comment"
+        },
+        {
+            "title": "Betty was ________ to accept her friend’s suggestion because she thought she could come up with a better idea herself.",
+            "options": [
+                "reluctant",
+                "modest",
+                "tolerable",
+                "sensitive"
+            ],
+            "answer": "reluctant"
+        },
+        {
+            "title": "The bank tries its best to attract more customers. Its staff members are always available to provide ________ service.",
+            "options": [
+                "expensive",
+                "probable",
+                "singular",
+                "prompt"
+            ],
+            "answer": "prompt"
+        },
+        {
+            "title": "John’s part-time experience at the cafeteria is good ________ for running his own restaurant.",
+            "options": [
+                "preparation",
+                "formation",
+                "calculation",
+                "recognition"
+            ],
+            "answer": "preparation"
+        },
+        {
+            "title": "Women’s fashions are ________ changing: One season they may favor pantsuits, but the next season they may prefer miniskirts.",
+            "options": [
+                "constantly",
+                "lately",
+                "shortly",
+                "relatively"
+            ],
+            "answer": "constantly"
+        },
+        {
+            "title": "Standing on the seashore, we saw a ________ of seagulls flying over the ocean before they glided down and settled on the water.",
+            "options": [
+                "flock",
+                "pack",
+                "herd",
+                "school"
+            ],
+            "answer": "flock"
+        },
+        {
+            "title": "The book is not only informative but also ________, making me laugh and feel relaxed while reading it.",
+            "options": [
+                "infecting",
+                "understanding",
+                "annoying",
+                "entertaining"
+            ],
+            "answer": "entertaining"
+        },
+        {
+            "title": "After working in front of my computer for the entire day, my neck and shoulders got so ________ that I couldn’t even turn my head.",
+            "options": [
+                "concrete",
+                "dense",
+                "stiff",
+                "harsh"
+            ],
+            "answer": "stiff"
+        },
+        {
+            "title": "Getting a flu shot before the start of flu season gives our body a chance to build up protection against the ________ that could make us sick.",
+            "options": [
+                "virus",
+                "misery",
+                "leak",
+                "poison"
+            ],
+            "answer": "virus"
+        },
+        {
+            "title": "The kingdom began to ________ after the death of its ruler, and was soon taken over by a neighboring country.",
+            "options": [
+                "collapse",
+                "dismiss",
+                "withdraw",
+                "rebel"
+            ],
+            "answer": "collapse"
+        },
+        {
+            "title": "Though Kevin failed in last year’s singing contest, he did not feel ________. This year he practiced day and night and finally won first place in the competition.",
+            "options": [
+                "discounted",
+                "suspected",
+                "relieved",
+                "frustrated"
+            ],
+            "answer": "frustrated"
+        },
+        {
+            "title": "Emma and Joe are looking for a live-in babysitter for their three-year-old twins, ________ one who knows how to cook.",
+            "options": [
+                "initially",
+                "preferably",
+                "apparently",
+                "considerably"
+            ],
+            "answer": "preferably"
+        },
+        {
+            "title": "The ending of the movie did not come as a ________ to John because he had already read the novel that the movie was based on.",
+            "options": [
+                "surprise",
+                "focus",
+                "vision",
+                "conclusion"
+            ],
+            "answer": "surprise"
+        },
+        {
+            "title": "In order to stay healthy and fit, John exercises ________. He works out twice a week in a gym. ",
+            "options": [
+                "regularly",
+                "hardly",
+                "directly",
+                "gradually"
+            ],
+            "answer": "regularly"
+        },
+        {
+            "title": "Traveling is a good way for us to ________ different cultures and broaden our horizons. ",
+            "options": [
+                "inspire",
+                "explore",
+                "assume",
+                "occupy"
+            ],
+            "answer": "explore"
+        },
+        {
+            "title": "The story about Hou-I shooting down nine suns is a well-known Chinese ________, but it may not be a true historical event. ",
+            "options": [
+                "rumor",
+                "figure",
+                "miracle",
+                "legend"
+            ],
+            "answer": "legend"
+        },
+        {
+            "title": "According to recent research, children under the age of 12 are generally not ________ enough to recognize risk and deal with dangerous situations. ",
+            "options": [
+                "diligent",
+                "familiar",
+                "sincere",
+                "mature"
+            ],
+            "answer": "mature"
+        },
+        {
+            "title": "Helen let out a sigh of ________ after hearing that her brother was not injured in the accident. ",
+            "options": [
+                "triumph",
+                "relief",
+                "hesitation",
+                "sorrow"
+            ],
+            "answer": "relief"
+        },
+        {
+            "title": "Research suggests that people with outgoing personalities tend to be more ________, often expecting that good things will happen. ",
+            "options": [
+                "optimistic",
+                "changeable",
+                "practical",
+                "efficient"
+            ],
+            "answer": "optimistic"
+        },
+        {
+            "title": "No one could beat Paul at running. He has won the running championship ________ for three years. ",
+            "options": [
+                "temporarily",
+                "urgently",
+                "rapidly",
+                "continuously"
+            ],
+            "answer": "continuously"
+        },
+        {
+            "title": "If you fly from Taipei to Tokyo, you’ll be taking an international, rather than a ________ flight. ",
+            "options": [
+                "universal",
+                "domestic",
+                "liberal",
+                "connected"
+            ],
+            "answer": "domestic"
+        },
+        {
+            "title": "Jack is very proud of his fancy new motorcycle. He has been ________ to all his friends about how cool it looks and how fast it runs. ",
+            "options": [
+                "gossiping",
+                "confessing",
+                "boasting",
+                "proposing"
+            ],
+            "answer": "boasting"
+        },
+        {
+            "title": "The ideas about family have changed ________ in the past twenty years. For example, my grandfather was one of ten children in his family, but I am the only child. ",
+            "options": [
+                "narrowly",
+                "considerably",
+                "scarcely",
+                "mutually"
+            ],
+            "answer": "considerably"
+        },
+        {
+            "title": "The chairperson of the meeting asked everyone to speak up instead of ________ their opinions among themselves. ",
+            "options": [
+                "giggling",
+                "reciting",
+                "whistling",
+                "murmuring"
+            ],
+            "answer": "murmuring"
+        },
+        {
+            "title": "Although Mr. Chen is rich, he is a very ________ person and is never willing to spend any money to help those who are in need. ",
+            "options": [
+                "precise",
+                "economic",
+                "stingy",
+                "absolute"
+            ],
+            "answer": "stingy"
+        },
+        {
+            "title": "If you want to know what your dreams mean, now there are websites you can visit to help you ________ them. ",
+            "options": [
+                "transfer",
+                "revise",
+                "interpret",
+                "overcome"
+            ],
+            "answer": "interpret"
+        },
+        {
+            "title": "The memory ________ of the new computer has been increased so that more information can be stored.",
+            "options": [
+                "occupation",
+                "attachment",
+                "capacity",
+                "machinery"
+            ],
+            "answer": "capacity"
+        },
+        {
+            "title": "With his excellent social skills, Steven has been ________ as a great communicator by all his colleagues. ",
+            "options": [
+                "exploited",
+                "perceived",
+                "concerned",
+                "diagnosed"
+            ],
+            "answer": "perceived"
+        },
+        {
+            "title": "When you enter a building, be sure to look behind you and hold the door open for someone coming through the same door. It is a common ________ in many cultures. ",
+            "options": [
+                "acceptance",
+                "courtesy",
+                "operation",
+                "process"
+            ],
+            "answer": "courtesy"
+        },
+        {
+            "title": "The telephone has changed beyond ________ in recent years. In both form and function, it has become totally different from what it was before. ",
+            "options": [
+                "appreciation",
+                "recognition",
+                "prevention",
+                "possession"
+            ],
+            "answer": "recognition"
+        },
+        {
+            "title": "Though Jack has moved out of his parents’ house, he is ________ dependent on them still. They send him a check every month for his living expenses. ",
+            "options": [
+                "politically",
+                "physically",
+                "financially",
+                "radically"
+            ],
+            "answer": "financially"
+        },
+        {
+            "title": "If you want to keep your computer from being attacked by new viruses, you need to constantly renew and ________ your anti-virus software. ",
+            "options": [
+                "confirm",
+                "esteem",
+                "update",
+                "overlook"
+            ],
+            "answer": "update"
+        },
+        {
+            "title": "Many factors may explain why people are addicted to the Internet. One factor ________ to this phenomenon is the easy access to the Net. ",
+            "options": [
+                "advancing",
+                "responding",
+                "occurring",
+                "contributing"
+            ],
+            "answer": "contributing"
+        },
+        {
+            "title": "We were ________ awaiting the results of the school’s annual English drama contest. Our class won the first place last year, and we certainly wanted to win again this year. ",
+            "options": [
+                "consciously",
+                "competently",
+                "anxiously",
+                "fortunately"
+            ],
+            "answer": "anxiously"
+        },
+        {
+            "title": "Tropical rainforests are home to about one million plant and animal species. If the rainforests disappear, many of these species will become ________. ",
+            "options": [
+                "hostile",
+                "mature",
+                "extinct",
+                "intimate"
+            ],
+            "answer": "extinct"
+        },
+        {
+            "title": "An honest person is faithful to his promise. Once he makes a ________, he will not go back on his own word. ",
+            "options": [
+                "prescription",
+                "transcript",
+                "commitment",
+                "frustration"
+            ],
+            "answer": "commitment"
+        },
+        {
+            "title": "The new computer game Wii provides us with an ________ way of exercising. People now may play sports in their living rooms, which was unimaginable before.",
+            "options": [
+                "innovative",
+                "urgent",
+                "aggressive",
+                "outgoing"
+            ],
+            "answer": "innovative"
+        },
+        {
+            "title": "All the new students were given one minute to ________ introduce themselves to the whole class. ",
+            "options": [
+                "obviously",
+                "famously",
+                "briefly",
+                "gradually"
+            ],
+            "answer": "briefly"
+        },
+        {
+            "title": "His dark brown jacket had holes in the elbows and had ________ to light brown, but he continued to wear it. ",
+            "options": [
+                "divided",
+                "loosened",
+                "cycled",
+                "faded"
+            ],
+            "answer": "faded"
+        },
+        {
+            "title": "Everyone in our company enjoys working with Jason. He’s got all the qualities that make a ________ partner. ",
+            "options": [
+                "hostile",
+                "desirable",
+                "frequent",
+                "comfortable"
+            ],
+            "answer": "desirable"
+        },
+        {
+            "title": "Eyes are sensitive to light. Looking at the sun ________ could damage our eyes. ",
+            "options": [
+                "totally",
+                "directly",
+                "hardly",
+                "specially"
+            ],
+            "answer": "directly"
+        },
+        {
+            "title": "We were forced to ________ our plan for the weekend picnic because of the bad weather. ",
+            "options": [
+                "maintain",
+                "propose",
+                "record",
+                "cancel"
+            ],
+            "answer": "cancel"
+        },
+        {
+            "title": "Three people are running for mayor. All three ________ seem confident that they will be elected, but we won’t know until the outcome of the election is announced. ",
+            "options": [
+                "receivers",
+                "particles",
+                "containers",
+                "candidates"
+            ],
+            "answer": "candidates"
+        },
+        {
+            "title": "If you ________ a traffic law, such as drinking and driving, you may not drive for some time. ",
+            "options": [
+                "destroy",
+                "violate",
+                "invade",
+                "attack"
+            ],
+            "answer": "violate"
+        },
+        {
+            "title": "Applying to college means sending in applications, writing study plans, and so on. It’s a long ________, and it makes students nervous. ",
+            "options": [
+                "errand",
+                "operation",
+                "process",
+                "display"
+            ],
+            "answer": "process"
+        },
+        {
+            "title": "Dr. Chu’s speech on the new energy source attracted great ________ from the audience at the conference. ",
+            "options": [
+                "fortune",
+                "influence",
+                "solution",
+                "attention"
+            ],
+            "answer": "attention"
+        },
+        {
+            "title": "Everyone in the office must attend the meeting tomorrow. There are no ________ allowed. ",
+            "options": [
+                "exceptions",
+                "measures",
+                "divisions",
+                "additions"
+            ],
+            "answer": "exceptions"
+        },
+        {
+            "title": "To make fresh lemonade, cut the lemon in half, ________ the juice into a bowl, and then add as much water and sugar as you like. ",
+            "options": [
+                "squeeze",
+                "cease",
+                "decrease",
+                "freeze"
+            ],
+            "answer": "squeeze"
+        },
+        {
+            "title": "Steve has several meetings to attend every day; therefore, he has to work on a very ________ schedule. ",
+            "options": [
+                "current",
+                "dense",
+                "tight",
+                "various"
+            ],
+            "answer": "tight"
+        },
+        {
+            "title": "Michael Phelps, an American swimmer, broke seven world records and won eight gold medals in men’s swimming ________ in the 2008 Olympics. ",
+            "options": [
+                "drills",
+                "routines",
+                "contests",
+                "techniques"
+            ],
+            "answer": "contests"
+        },
+        {
+            "title": "Those college students work at the orphanage on a ________ basis, helping the children with their studies without receiving any pay. ",
+            "options": [
+                "sorrowful",
+                "realistic",
+                "competitive",
+                "voluntary"
+            ],
+            "answer": "voluntary"
+        },
+        {
+            "title": "Studies show that asking children to do house ________, such as taking out the trash or doing the dishes, helps them grow into responsible adults. ",
+            "options": [
+                "missions",
+                "chores",
+                "approaches",
+                "incidents"
+            ],
+            "answer": "chores"
+        },
+        {
+            "title": "John has been scolded by his boss for over ten minutes now. ________, she is not happy about his being late again. ",
+            "options": [
+                "Immediately",
+                "Originally",
+                "Apparently",
+                "Expressively"
+            ],
+            "answer": "Apparently"
+        },
+        {
+            "title": "Since the orange trees suffered ________ damage from a storm in the summer, the farmers are expecting a sharp decline in harvests this winter. ",
+            "options": [
+                "mutual",
+                "potential",
+                "relative",
+                "severe"
+            ],
+            "answer": "severe"
+        },
+        {
+            "title": "Typhoon Morakot claimed more than six hundred lives in early August of 2009, making it the most serious natural ________ in Taiwan in recent decades. ",
+            "options": [
+                "collapse",
+                "anxiety",
+                "disaster",
+                "barrier"
+            ],
+            "answer": "disaster"
+        },
+        {
+            "title": "Robert was the only ________ to the car accident. The police had to count on him to find out exactly how the accident happened. ",
+            "options": [
+                "client",
+                "witness",
+                "dealer",
+                "guide"
+            ],
+            "answer": "witness"
+        },
+        {
+            "title": "Badly injured in the car accident, Jason could ________ move his legs and was sent to the hospital right away.",
+            "options": [
+                "scarcely",
+                "undoubtedly",
+                "accordingly",
+                "handily"
+            ],
+            "answer": "scarcely"
+        },
+        {
+            "title": "Steve’s description of the place was so ________ that I could almost picture it in my mind. ",
+            "options": [
+                "courageous",
+                "bitter",
+                "sensitive",
+                "vivid"
+            ],
+            "answer": "vivid"
+        },
+        {
+            "title": "When people feel uncomfortable or nervous, they may ________ their arms across their chests as if to protect themselves. ",
+            "options": [
+                "fold",
+                "veil",
+                "yield",
+                "toss"
+            ],
+            "answer": "fold"
+        },
+        {
+            "title": "The doors of these department stores slide open ________ when you approach them. You don’t have to open them yourself. ",
+            "options": [
+                "intentionally",
+                "diligently",
+                "necessarily",
+                "automatically"
+            ],
+            "answer": "automatically"
+        },
+        {
+            "title": "Nicole is a ________ language learner. Within a short period of time, she has developed a good command of Chinese and Japanese. ",
+            "options": [
+                "regular",
+                "convenient",
+                "brilliant",
+                "popular"
+            ],
+            "answer": "brilliant"
+        },
+        {
+            "title": "With rising oil prices, there is an increasing ________ for people to ride bicycles to work. ",
+            "options": [
+                "tendency",
+                "instrument",
+                "permit",
+                "appearance"
+            ],
+            "answer": "tendency"
+        },
+        {
+            "title": "This information came from a very ________ source, so you don’t have to worry about being cheated. ",
+            "options": [
+                "flexible",
+                "reliable",
+                "clumsy",
+                "brutal"
+            ],
+            "answer": "reliable"
+        },
+        {
+            "title": "We hope that there will be no war in the world and that all people live in peace and ________ with each other. ",
+            "options": [
+                "mission",
+                "texture",
+                "complaint",
+                "harmony"
+            ],
+            "answer": "harmony"
+        },
+        {
+            "title": "To have a full discussion of the issue, the committee spent a whole hour ________ their ideas at the meeting. ",
+            "options": [
+                "governing",
+                "exchanging",
+                "depositing",
+                "interrupting"
+            ],
+            "answer": "exchanging"
+        },
+        {
+            "title": "While adapting to western ways of living, many Asian immigrants in the US still try hard to ________ their own cultures and traditions. ",
+            "options": [
+                "motivate",
+                "preserve",
+                "volunteer",
+                "scatter"
+            ],
+            "answer": "preserve"
+        },
+        {
+            "title": "With the worsening of global economic conditions, it seems wiser and more ________ to keep cash in the bank rather than to invest in the stock market. ",
+            "options": [
+                "sensible",
+                "anxious",
+                "portable",
+                "explicit"
+            ],
+            "answer": "sensible"
+        },
+        {
+            "title": "Under the ________ of newly elected president Barack Obama, the US is expected to turn a new page in politics and economy. ",
+            "options": [
+                "leadership",
+                "fragrance",
+                "identity",
+                "adoption"
+            ],
+            "answer": "leadership"
+        },
+        {
+            "title": "Rapid advancement in motor engineering makes it ________ possible to build a flying car in the near future. ",
+            "options": [
+                "individually",
+                "punctually",
+                "narrowly",
+                "technically"
+            ],
+            "answer": "technically"
+        },
+        {
+            "title": "When you take photos, you can move around to shoot the target object from different ________. ",
+            "options": [
+                "trends",
+                "inputs",
+                "angles",
+                "moods"
+            ],
+            "answer": "angles"
+        },
+        {
+            "title": "Students were asked to ________ or rewrite their compositions based on the teacher’s comments. ",
+            "options": [
+                "refresh",
+                "resign",
+                "remind",
+                "revise"
+            ],
+            "answer": "revise"
+        },
+        {
+            "title": "Besides lung cancer, another ________ of smoking is wrinkles, a premature sign of aging.",
+            "options": [
+                "breakthrough",
+                "consequence",
+                "blessing",
+                "campaign"
+            ],
+            "answer": "consequence"
+        },
+        {
+            "title": "Amy did not ________ changes in the course schedule and therefore missed the class. ",
+            "options": [
+                "alarm",
+                "notice",
+                "arrest",
+                "delay"
+            ],
+            "answer": "notice"
+        },
+        {
+            "title": "It is not easy for old people to ________ their backs, so they need help when their backs itch. ",
+            "options": [
+                "squeeze",
+                "scratch",
+                "lighten",
+                "label"
+            ],
+            "answer": "scratch"
+        },
+        {
+            "title": "Mary is suffering from a stomachache and needs to eat food which is easy to ________. ",
+            "options": [
+                "launch",
+                "invade",
+                "adopt",
+                "digest"
+            ],
+            "answer": "digest"
+        },
+        {
+            "title": "Since our classroom is not air-conditioned, we have to ________ the heat during the hot summer days. ",
+            "options": [
+                "tolerate",
+                "recover",
+                "consume",
+                "promote"
+            ],
+            "answer": "tolerate"
+        },
+        {
+            "title": "Sue is so ________ that she always breaks something when she is shopping at a store. ",
+            "options": [
+                "intimate",
+                "clumsy",
+                "visual",
+                "religious"
+            ],
+            "answer": "clumsy"
+        },
+        {
+            "title": "Ann enjoyed going to the flower market. She believed that the ________ of flowers refreshed her mind. ",
+            "options": [
+                "instance",
+                "appliance",
+                "fragrance",
+                "dominance"
+            ],
+            "answer": "fragrance"
+        }
+    ]
+}
